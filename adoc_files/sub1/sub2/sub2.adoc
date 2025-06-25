@@ -1,0 +1,72 @@
+= Red Hat Training
+
+Specific course descriptions and availability can be found on the Red Hat website, under Training and Certification. The following courses are recommended:
+
+== Red Hat Learning Subscription
+
+Close skill gaps and solve business challenges by taking advantage of unlimited access to our extensive curriculum.
+
+For full details or to enroll:
+https://www.redhat.com/en/services/training/learning-subscription#tab.rhls.1
+
+== Red Hat Skills Assessment
+
+Use the skills assessment tool to discover which training opportunities may benefit you.
+
+For full details or to take the assessment:
+https://www.redhat.com/rhtapps/assessment
+
+== Red Hat System Administration I
+
+Red Hat System Administration I (RH124) prepares you for Linux administration “survival skills” by focusing on core Linux concepts and essential tasks. You will learn how to apply command-line concepts and enterprise-level tools, starting your journey to becoming a full-time Linux system administrator. This curriculum continues with the subsequent course, Red Hat System Administration II (RH134).
+
+Course content summary:
+- Introduction to the command line
+- Physical storage management
+- Installing and configuring software components and services
+- Establishing network connections and controlling firewall restrictions
+- Monitoring and managing running processes
+- Managing and securing files and file systems
+- Administering users and groups
+- Reviewing system log files and journals for issues
+- Troubleshooting and analyzing systems using Red Hat Insights
+- Managing systems remotely using SSH and the Web Console
+
+For full details or to enroll:
+https://www.redhat.com/en/services/training/rh124-red-hat-system-administration-i
+
+== Red Hat System Administration II
+
+Red Hat System Administration II (RH134) builds upon and uses the foundational knowledge established in Red Hat System Administration I (RH124). This course presents more in-depth use cases of Red Hat® Enterprise Linux®, preparing you for the Red Hat Certified System Administrator (EX200) exam.
+
+For full details or to enroll:
+https://www.redhat.com/en/services/training/rh134-red-hat-system-administration-ii
+
+== Red Hat System Administration III with RHCSA and RHCE exams - RH255
+
+Red Hat® System Administration III (RH254), based on Red Hat Enterprise Linux® 7, is designed for experienced Linux system administrators who hold a Red Hat Certified System Administrator (RHCSA®) certification or equivalent skills and want to expand their ability to manage Linux systems at an enterprise level.
+
+Course summary:
+This course focuses on deploying and managing network servers running Domain Name System (DNS) caching, MariaDB, Apache HTTPD, Postfix SMTP nullclients, network file sharing with Network File System (NFS) and Server Message Block (SMB), iSCSI initiators, advanced networking and firewall configurations, and using Bash shell scripts to aid in automation, configuration, and troubleshooting. Through lectures and hands-on labs, RHCSA-certified students will be exposed to all competencies covered by the Red Hat Certified Engineer (RHCE) (EX300) exam.
+
+Note: This course does not cover all RHCSA tasks. Students needing a review of RHCSA skills are encouraged to take the RHCSA Rapid Track Course (RH199).
+
+For full details or to enroll:
+https://www.redhat.com/en/services/training/rh255-red-hat-system-administration-iii-rhcsa-and-rhce-exams
+
+== Automation with Ansible with exam - DO408:
+
+Learn how to automate Linux system administration tasks with Ansible.
+
+Automation with Ansible with exam (DO408) is designed for Linux system administrators and developers who need to automate provisioning, configuration, application deployment, and system orchestration. You will learn how to install and configure Ansible on a workstation and prepare managed hosts for automation, as well as validate that knowledge.
+
+Course content summary:
+- Install Ansible / Red Hat Ansible Engine on control nodes
+- Create and update inventories of managed hosts and manage their connections
+- Automate administration tasks using Ansible playbooks and ad hoc commands
+- Write efficient Ansible playbooks at scale
+- Secure sensitive data used by Ansible with Ansible Vault
+- Reuse code and simplify playbook development with Ansible roles
+
+For full details or to enroll:
+https://www.redhat.com/en/services/training/do408-automation-ansible-i-exam
