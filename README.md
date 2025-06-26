@@ -140,3 +140,7 @@ O script irá:
   - `tradutor.go`: Uma versão mais simples do script que traduz um único arquivo e o salva em um diretório `traducoes/`.
   - `go.mod` e `go.sum`: Arquivos gerados pelo Go para gerenciamento de dependências.
   - `README.md`: Este arquivo.
+
+  ### Assista à Demonstração Completa
+
+[![Assista ao vídeo](assets/01-after_translation.png)](https://www.youtube.com/watch?v=luGjJcAXV88)
